@@ -1,0 +1,6 @@
+.am-carousel-wrap-dot-active >span{
+    background:#FC3F78;
+    width: .15rem;
+    border-radius: .15rem
+}
+
